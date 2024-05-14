@@ -1,0 +1,26 @@
+/* Pages.css */
+.smart-hotel {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+  
+}
+.smart-hotel p {
+  margin: 10px 0;
+}
+.smart-hotel h2 {
+  color: #007bff;
+}
+
+.image-container {
+  margin-left: 1200px; /* Adjust margin as needed */
+}
+.image-container:{
+  animation: moveUpDown 1s infinite alternate ease-in-out;
+}
+
+
+.text {
+  /* Your existing text styles */
+}
